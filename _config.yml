@@ -1,4 +1,3 @@
-name: zhangxiaomou
+name: Hank Quinlan, Horrible Cop
 markdown: kramdown
-
-theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
